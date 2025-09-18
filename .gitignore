@@ -7,6 +7,7 @@ dbstuff/python_postgress_3.ipynb
 
 # dependencies
 fraud-detection-webapp/node_modules
+fraud-detection-webapp/src/node_modules
 /.pnp
 .pnp.*
 .yarn/*
