@@ -1,2 +1,5 @@
-   mkdir fraud-detection-webapp
-   cd fraud-detection-webapp
+{
+  "dependencies": {
+    "axios": "^1.12.2"
+  }
+}

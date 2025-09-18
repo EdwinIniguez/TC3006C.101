@@ -1,2 +1,4 @@
-   mkdir fraud-detection-webapp
-   cd fraud-detection-webapp
+flask
+joblib
+scikit-learn
+numpy
