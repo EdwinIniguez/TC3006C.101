@@ -6,7 +6,7 @@ Base_procesado.csv
 dbstuff/python_postgress_3.ipynb
 
 # dependencies
-/node_modules
+fraud-detection-webapp/node_modules
 /.pnp
 .pnp.*
 .yarn/*
