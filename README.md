@@ -1,7 +1,10 @@
 # Bank Account Fraud Challenge (NeurIPS 2022)
 
 ## Equipo
-- [Nombres de los integrantes aquí]
+- Edwin Iñiguez Moncada A01637064
+- Hiber Leonardo Macías Cancino A01782765
+- Álvaro Solano González A01643948
+- Carlos Francisco Sánchez Llanes A01741201
 - Curso: [TC3006C]
 - Fecha: Septiembre 2025
 
